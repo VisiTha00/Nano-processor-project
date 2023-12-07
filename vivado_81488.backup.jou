@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Jun 11 22:26:22 2023
+# Process ID: 81488
+# Current directory: C:/Users/Visitha/Videos/project 2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent87988 C:\Users\Visitha\Videos\project 2\project_2.xpr
+# Log file: C:/Users/Visitha/Videos/project 2/vivado.log
+# Journal file: C:/Users/Visitha/Videos/project 2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Visitha/Videos/project 2/project_2.xpr}
+update_compile_order -fileset sources_1
+file copy -force {C:/Users/Visitha/Videos/project 2/project_2.runs/impl_1/PROCESSOR.bit} C:/Users/Visitha/Downloads/NanoProcessor.bit
+file copy -force {C:/Users/Visitha/Videos/project 2/project_2.runs/impl_1/PROCESSOR.bit} C:/Users/Visitha/Documents/Nanoprocessor.bit
